@@ -4,7 +4,7 @@
 # ---------------------------------------------------------------
 
 # Site
-title: SinansNotes
+title: macia1's Notes
 subtitle: 
 description: making a dent in the universe
 author: Sinan
@@ -14,7 +14,7 @@ date_format: '%d-%m-%Y'
 
 # URL
 ## If your site is put in a subdirectory, set url as 'http://yoursite.com' and baseurl as '/child'
-url: 'https://sinantang.github.io'
+url: 'https://macia1.github.io'
 # baseurl:
 permalink: pretty
 
@@ -218,9 +218,9 @@ font:
 # Value is the target link (E.g. GitHub: https://github.com/iissnan)
 social:
   #LinkLabel: Link
-  GitHub: https://github.com/SinanTang
-  Weibo: http://weibo.com/yingzilianxi
-  Twitter: https://twitter.com/sinansnotes
+  GitHub: https://github.com/macia1
+  # Weibo: http://weibo.com/
+  # Twitter: https://x.com/
 
 
 # Social Links Icons
@@ -393,7 +393,7 @@ han: false
 # Disqus
 disqus:
   enable: true
-  shortname: Sinan
+  shortname: Guosheng
   count: true
   # hide comments (visitors need to click to load the comments)
   # count need to be false when hide is true
